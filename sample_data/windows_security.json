@@ -1,0 +1,6 @@
+[
+  {"TimeCreated": "2026-10-20T09:12:41Z", "EventID": 4625, "Computer": "WS-FIN-01.corp.local", "TargetUserName": "jdoe", "IpAddress": "203.0.113.45", "LogonType": 3},
+  {"TimeCreated": "2026-10-20T09:12:44Z", "EventID": 4625, "Computer": "WS-FIN-01.corp.local", "TargetUserName": "jdoe", "IpAddress": "203.0.113.45", "LogonType": 3},
+  {"TimeCreated": "2026-10-20T09:12:47Z", "EventID": 4625, "Computer": "WS-FIN-01.corp.local", "TargetUserName": "jdoe", "IpAddress": "203.0.113.45", "LogonType": 3},
+  {"TimeCreated": "2026-10-20T09:13:02Z", "EventID": 4624, "Computer": "WS-FIN-01.corp.local", "TargetUserName": "jdoe", "IpAddress": "203.0.113.45", "LogonType": 3}
+]

